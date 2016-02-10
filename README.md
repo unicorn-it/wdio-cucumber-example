@@ -1,2 +1,2 @@
 # wdio-mocha-example
-Sample-project for the implementation of webdriverIO together with cucumber
+Sample-project for the implementation of webdriverIO together with mocha
