@@ -1,0 +1,15 @@
+{
+  "name": "wdio-mocha-example",
+  "repository": "https://github.com/unicorn-it/wdio-cucumber-example",
+  "description": "Sample-project for the implementation of webdriverIO together with mocha",
+  "author": "unicorn-it (kontakt@unicorn-it.de)",
+  "version": "0.0.1",
+  "private": false,
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webdriver": "^1.0.3",
+    "mocha": "^2.4.5",
+    "selenium-standalone": "^4.9.0"
+  }
+}
